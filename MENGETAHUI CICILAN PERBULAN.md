@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
+	
 	//------gassssss------//
 	
 	cout<<"MENGETAHUI CICILAN PERBULAN"<< endl<< endl;
